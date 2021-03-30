@@ -1,0 +1,35 @@
+.nav-link
+{
+    color: white;
+}
+h3
+{
+    display: block;
+    margin: 10px;
+}
+.mb-3
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}   
+.form-control
+{
+    width: 500px;
+    margin: 10px;
+    border:1px solid rgb(172, 32, 32);
+    display: inline-block;
+}
+.btn
+{
+    margin: 10px;
+    justify-content: center;
+    display: inline-block;
+    width: 150px;
+}
+.form-label
+{
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+}
